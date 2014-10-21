@@ -1,0 +1,22 @@
+{
+  "name": "task-list",
+  "version": "0.0.0",
+  "description": "This is an example of code obsessed with primitives.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uxebu/task-list.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxebu/task-list/issues"
+  },
+  "homepage": "https://github.com/uxebu/task-list",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
